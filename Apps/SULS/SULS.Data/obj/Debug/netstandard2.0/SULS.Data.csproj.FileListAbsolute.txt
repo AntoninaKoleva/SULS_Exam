@@ -1,0 +1,12 @@
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.deps.json
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.dll
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.pdb
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.dll
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.pdb
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csprojAssemblyReference.cache
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfo.cs
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CopyComplete
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.dll
+D:\SoftUni\C# Web Basics - may 2019\LASTEXAM\SULS_Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.pdb
